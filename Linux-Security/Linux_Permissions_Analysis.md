@@ -8,7 +8,7 @@ I discovered several files with incorrect permissions. Below are the commands I 
 
 ### 1. Checking Existing Permissions
 I used the `ls -la` command to view all files, including hidden ones, and their current permission strings.
-```bash
+
 ls -la /home/researcher/projects
 
 ## 2. Removing 'Write' Access for 'Other' Users
