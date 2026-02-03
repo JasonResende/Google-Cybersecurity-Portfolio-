@@ -20,6 +20,7 @@ chmod o-w project_k.txt
 ## A hidden archive file .project_x.txt was accessible to the public. I changed it so only the User and Group could read it, and no one could write to it.
 
 chmod 640 .project_x.txt
+'''bash 
 
 ## Part 2: Analyzing System Logs
 ## I reviewed the system logs to identify failed login attempts that might indicate a brute-force attack.
