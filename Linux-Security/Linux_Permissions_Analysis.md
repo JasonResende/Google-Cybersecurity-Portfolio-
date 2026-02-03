@@ -10,3 +10,26 @@ I discovered several files with incorrect permissions. Below are the commands I 
 I used the `ls -la` command to view all files, including hidden ones, and their current permission strings.
 ```bash
 ls -la /home/researcher/projects
+
+## 2. Removing 'Write' Access for 'Other' Users
+## The file project_k.txt allowed "others" to write to it. I removed this to prevent unauthorized changes.
+
+chmod o-w project_k.txt
+
+## 3. Securing Hidden Files
+## A hidden archive file .project_x.txt was accessible to the public. I changed it so only the User and Group could read it, and no one could write to it.
+
+chmod 640 .project_x.txt
+
+## Part 2: Analyzing System Logs
+## I reviewed the system logs to identify failed login attempts that might indicate a brute-force attack.
+
+## 1. Searching for Authentication Failures
+##I used grep to filter the auth.log file for any failed password attempts.
+
+grep "Failed password" /var/log/auth.log
+
+## 2. Identifying the Target Account
+## I narrowed the search to see which specific username was being targeted the most.
+
+grep "Failed password" /var/log/auth.log | awk '{print $9}' | sort | uniq -c
