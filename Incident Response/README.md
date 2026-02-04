@@ -16,11 +16,11 @@ Welcome to my cybersecurity portfolio. This repository contains hands-on project
 
 ## 📂 Project Directories
 
-### 🐍 [Python-Project](./Python-Project)
-Automating the management of IP "allow lists" to ensure only authorized users  can access sensitive internal servers.
+### 🐍 [Python: Security Automation](./Python-Project/)
+Automating the management of IP "allow lists" to ensure only authorized users can access sensitive internal servers.
 * **Key Skills:** Python File I/O, List manipulation, Algorithm logic.
 
-### 🔍 [SQL: Database Investigations](./SQL-Analysis/)
+### 🔍 [SQL: Database Investigations](./SQL-Filters-and-Queries/)
 Using SQL to filter through thousands of login logs to identify brute-force attacks and unauthorized access patterns.
 * **Key Skills:** SQL Filters (WHERE, AND, OR), JOINs, Data Triage.
 
@@ -28,18 +28,18 @@ Using SQL to filter through thousands of login logs to identify brute-force atta
 Applying the "Principle of Least Privilege" to file systems and auditing system logs to detect malicious activity.
 * **Key Skills:** Linux CLI, Permissions (chmod/chown), Grep/Awk Log Analysis.
 
-### 📝 [Incident Response Reports](./Incident-Reports/)
+### 📝 [Incident Response Reports](./Incident%20Responses/)
 Formal documentation of security incidents, including containment, remediation, and post-incident analysis using the NIST framework.
 * **Key Skills:** Technical Writing, Risk Assessment, Incident Lifecycle.
 
 ---
 
 ## 🎓 Certifications
-* **Google Cybersecurity Professional Certificate** (Completed Feb 2026)
+* **Google Cybersecurity Professional Certificate** (Completed 2026)
 * *[Optional: Link to your Credly badge or certificate here]*
 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** [Insert Your Link Here]
+* **Email:** [Insert Your Email Here]
