@@ -41,5 +41,5 @@ Formal documentation of security incidents, including containment, remediation, 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Insert Your Link Here]
-* **Email:** [Insert Your Email Here]
+* **LinkedIn:** [https://www.linkedin.com/in/jason-resende-047733288/]
+* **Email:** [resendejason@gmail.com]
