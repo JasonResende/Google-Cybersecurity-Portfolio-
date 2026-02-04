@@ -36,7 +36,30 @@ Formal documentation of security incidents, including containment, remediation, 
 
 ## 🎓 Certifications
 * **Google Cybersecurity Professional Certificate** (Completed 2026)
-* *[Optional: Link to your Credly badge or certificate here]*
+
+* Automate Cybersecurity Tasks with Python
+* * https://www.coursera.org/account/accomplishments/records/Y2M6I6G38F5P
+ 
+* Tools of the Trade: Linux and SQL
+** https://coursera.org/share/e130f09b4418a568b586f38952465454
+
+* Foundations of Cybersecurity
+* * https://coursera.org/share/15c662aa2f0ebc97949ca1cf53ca9057
+ 
+* Sound the Alarm: Detection and Response
+* * https://coursera.org/share/0a20ac39bff0150478c1af443c476c89
+ 
+* Assets, Threats, and Vulnerabilities
+* * https://coursera.org/share/d29fcbcc0925781d3d911bf271f87678
+ 
+* Play It Safe: Manage Security Risks
+** https://coursera.org/share/d0f32713fab3ccd737aabca2d777b94c
+
+* Connect and Protect: Networks and Network Security
+** https://coursera.org/share/96dc52eaa350fde8c891d61f55bb8550
+
+* Put It to Work: Prepare for Cybersecurity Jobs
+** https://coursera.org/share/3bee347101e89d1a672d3aed4ee2c6fd
 
 ---
 
