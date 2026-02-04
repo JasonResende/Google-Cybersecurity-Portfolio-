@@ -1,4 +1,3 @@
-
 # Python script to remove prohibited IP addresses from an allow list
 # This mimics the logic used in the Google Cybersecurity Professional Certificate labs
 
