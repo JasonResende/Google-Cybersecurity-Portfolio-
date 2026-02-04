@@ -28,7 +28,7 @@ Using SQL to filter through thousands of login logs to identify brute-force atta
 Applying the "Principle of Least Privilege" to file systems and auditing system logs to detect malicious activity.
 * **Key Skills:** Linux CLI, Permissions (chmod/chown), Grep/Awk Log Analysis.
 
-### 📝 [Incident Response Reports](./Incident%20Responses/)
+### 📝 [Incident Response Reports](./Incident%20Response/)
 Formal documentation of security incidents, including containment, remediation, and post-incident analysis using the NIST framework.
 * **Key Skills:** Technical Writing, Risk Assessment, Incident Lifecycle.
 
