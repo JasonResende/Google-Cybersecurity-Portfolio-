@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio. This repository contains hands-on project
 
 ## 📂 Project Directories
 
-### 🐍 [Python: Security Automation](./Python-Project)
+### 🐍 [Python-Project](./Python-Project)
 Automating the management of IP "allow lists" to ensure only authorized users  can access sensitive internal servers.
 * **Key Skills:** Python File I/O, List manipulation, Algorithm logic.
 
